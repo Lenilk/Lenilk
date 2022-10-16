@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lenilk
 - 👀 I’m interested in everything.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and react and more
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
